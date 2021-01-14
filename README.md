@@ -55,3 +55,13 @@ See [OS2Forms code review policy](https://github.com/OS2Forms/docs#code-review)
 
 ### Git name convention
 See [OS2Forms git name convention](https://github.com/OS2Forms/docs#git-guideline)
+
+### Instalation
+
+##docksal
+
+Todo
+
+##Docker
+
+todo
